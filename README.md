@@ -6,5 +6,7 @@ Steps to run the code
 
 2.Run the below mentioned command in terminal:-
   pod install
+  
+3.Run the project using the ".xcworkspace".
  
   

@@ -6,6 +6,9 @@ target 'CodingChallengeAPOD' do
   use_frameworks!
 
   # Pods for CodingChallengeAPOD
-
+ 
+ pod 'RealmSwift'
+ pod 'Kingfisher'
+ pod 'youtube-ios-player-helper'
 
 end
